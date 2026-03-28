@@ -1,0 +1,15 @@
+name: DSPy
+type: repo
+category: frameworks
+summary: Framework for programming language model systems with optimization instead of prompt-only workflows.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - llm
+  - framework
+  - evaluation
+level: advanced
+status: active
+links:
+  repo: https://github.com/stanfordnlp/dspy

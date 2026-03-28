@@ -6,7 +6,10 @@ This repository keeps one physical copy of each resource. Discovery happens thro
 
 - `skills`
 - `prompts`
+- `instructions`
 - `mcp`
+- `frameworks`
+- `evals`
 - `workflows`
 - `examples`
 
@@ -41,7 +44,11 @@ This repository keeps one physical copy of each resource. Discovery happens thro
 - `coding`
 - `rag`
 - `browser`
+- `copilot`
 - `evaluation`
+- `framework`
 - `productivity`
+- `prompt-engineering`
+- `sdk`
 
 Prefer existing tags from `data/taxonomy/` before inventing new ones.

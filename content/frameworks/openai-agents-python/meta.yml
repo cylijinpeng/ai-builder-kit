@@ -1,0 +1,15 @@
+name: OpenAI Agents SDK (Python)
+type: repo
+category: frameworks
+summary: Lightweight framework for building multi-agent workflows in Python.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - framework
+  - sdk
+level: intermediate
+status: active
+links:
+  repo: https://github.com/openai/openai-agents-python

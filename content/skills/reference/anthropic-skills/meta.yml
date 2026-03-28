@@ -1,0 +1,16 @@
+name: Anthropic Skills
+type: repo
+category: skills
+summary: Public repository of Claude-compatible Agent Skills from Anthropic.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/anthropics/skills
+  docs: https://agentskills.io/

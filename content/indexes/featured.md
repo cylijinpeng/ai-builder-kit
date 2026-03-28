@@ -1,24 +1,42 @@
 # Featured Builder Resources
 
-These are not all stored in this repository, but they are the external references most worth knowing if you are building agents.
+Short list of high-signal starting points from the current collection.
 
 ## Skills
 
-- [Anthropic Skills](https://github.com/anthropics/skills): strong public example of structured agent skills
-- [OpenAI Skills](https://github.com/openai/skills): Codex-oriented skill catalog and packaging model
-- [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills): practical skill examples around app-building workflows
+- [Code Review Skill](../skills/coding/code-review-skill/README.md)
+- [Anthropic Skills](../skills/reference/anthropic-skills/README.md)
+- [OpenAI Skills](../skills/reference/openai-skills/README.md)
 
 ## Prompts
 
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): wide coverage of prompting, RAG, agents, and evaluation
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): high-visibility prompt collection
-- [GitHub Models Prompt Files](https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories): official `.prompt.yml` format guidance
+- [PR Review Prompt](../prompts/coding/pr-review/README.md)
+- [Prompt Engineering Guide](../prompts/reference/prompt-engineering-guide/README.md)
+- [GitHub Prompt Files](../instructions/github-prompt-files/README.md)
+
+## Instructions
+
+- [AGENTS.md Standard](../instructions/agents-md-standard/README.md)
+- [GitHub Copilot Custom Instructions](../instructions/copilot-custom-instructions/README.md)
 
 ## MCP
 
-- [MCP Reference Servers](https://github.com/modelcontextprotocol/servers): official reference implementations
-- [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers): broader server discovery and comparison
+- [Model Context Protocol Overview](../mcp/official-overview/README.md)
+- [MCP Reference Servers](../mcp/reference-servers/README.md)
+- [MCP Inspector](../mcp/inspector/README.md)
 
-## General builders
+## Frameworks
 
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook): implementation-oriented examples and patterns
+- [OpenAI Agents SDK (JavaScript/TypeScript)](../frameworks/openai-agents-js/README.md)
+- [OpenAI Agents SDK (Python)](../frameworks/openai-agents-python/README.md)
+- [LangGraph](../frameworks/langgraph/README.md)
+
+## Evals
+
+- [promptfoo](../evals/promptfoo/README.md)
+- [OpenAI Evals](../evals/openai-evals/README.md)
+
+## Examples
+
+- [OpenAI Cookbook](../examples/reference/openai-cookbook/README.md)
+- [Awesome LLM Apps](../examples/reference/awesome-llm-apps/README.md)

@@ -1,0 +1,15 @@
+name: OpenAI Agents SDK (JavaScript/TypeScript)
+type: repo
+category: frameworks
+summary: Lightweight framework for building multi-agent and voice workflows in JavaScript and TypeScript.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - framework
+  - sdk
+level: intermediate
+status: active
+links:
+  repo: https://github.com/openai/openai-agents-js

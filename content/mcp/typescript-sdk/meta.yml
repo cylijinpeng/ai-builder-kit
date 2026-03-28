@@ -1,0 +1,15 @@
+name: MCP TypeScript SDK
+type: repo
+category: mcp
+summary: Official TypeScript SDK for building MCP servers and clients.
+scenarios:
+  - coding
+  - automation
+tags:
+  - mcp
+  - sdk
+  - agent
+level: intermediate
+status: active
+links:
+  repo: https://github.com/modelcontextprotocol/typescript-sdk

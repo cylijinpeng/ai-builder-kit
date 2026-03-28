@@ -6,7 +6,10 @@ This repository accepts curated resources, original templates, and starter imple
 
 - Skills with clear task boundaries
 - Prompts with practical usage notes
+- Instruction resources such as AGENTS.md and Copilot guidance
 - MCP servers or integration starters
+- Framework and SDK references that matter to builders
+- Evaluation tools and testing references
 - Workflows that describe an end-to-end outcome
 - Examples that are runnable or close to runnable
 
@@ -29,6 +32,7 @@ Optional additions:
 - `examples/`
 - `assets/`
 - `.prompt.yml` or `.prompt.yaml` for prompt entries
+- `SKILL.md` for skill entries
 
 ## Naming
 

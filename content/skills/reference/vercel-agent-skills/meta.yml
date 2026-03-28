@@ -1,0 +1,16 @@
+name: Vercel Agent Skills
+type: repo
+category: skills
+summary: Official Vercel collection of agent skills for coding and web app workflows.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - coding
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/vercel-labs/agent-skills
+  docs: https://agentskills.io/

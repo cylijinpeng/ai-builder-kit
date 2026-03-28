@@ -1,0 +1,15 @@
+name: prompts.chat
+type: repo
+category: prompts
+summary: Large community prompt collection formerly known as Awesome ChatGPT Prompts.
+scenarios:
+  - writing
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/f/prompts.chat

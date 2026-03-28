@@ -1,0 +1,15 @@
+name: Prompt Engineering Guide
+type: repo
+category: prompts
+summary: Large open guide covering prompt engineering, context engineering, RAG, and agents.
+scenarios:
+  - writing
+  - research
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/dair-ai/Prompt-Engineering-Guide

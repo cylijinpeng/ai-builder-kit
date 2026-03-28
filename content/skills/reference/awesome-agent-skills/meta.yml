@@ -1,0 +1,15 @@
+name: Awesome Agent Skills
+type: repo
+category: skills
+summary: Community directory of agent skills compatible with multiple coding-agent environments.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - coding
+level: beginner
+status: active
+links:
+  repo: https://github.com/VoltAgent/awesome-agent-skills

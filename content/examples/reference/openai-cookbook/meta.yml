@@ -1,0 +1,15 @@
+name: OpenAI Cookbook
+type: repo
+category: examples
+summary: Large official collection of examples and guides for building with the OpenAI API.
+scenarios:
+  - coding
+  - research
+tags:
+  - llm
+  - productivity
+  - agent
+level: beginner
+status: active
+links:
+  repo: https://github.com/openai/openai-cookbook

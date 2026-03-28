@@ -1,0 +1,15 @@
+name: MCP Inspector
+type: repo
+category: mcp
+summary: Official visual testing tool for MCP servers.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - mcp
+  - evaluation
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/modelcontextprotocol/inspector

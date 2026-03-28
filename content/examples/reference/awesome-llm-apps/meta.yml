@@ -1,0 +1,15 @@
+name: Awesome LLM Apps
+type: repo
+category: examples
+summary: Large collection of practical LLM apps featuring RAG, agents, MCP, and multi-agent examples.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - rag
+level: beginner
+status: active
+links:
+  repo: https://github.com/Shubhamsaboo/awesome-llm-apps

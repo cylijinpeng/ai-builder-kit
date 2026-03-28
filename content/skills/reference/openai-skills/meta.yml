@@ -1,0 +1,16 @@
+name: OpenAI Skills
+type: repo
+category: skills
+summary: Skills catalog for Codex with curated and experimental examples.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/openai/skills
+  docs: https://agentskills.io/

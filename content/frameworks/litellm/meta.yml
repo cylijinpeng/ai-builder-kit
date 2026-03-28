@@ -1,0 +1,15 @@
+name: LiteLLM
+type: repo
+category: frameworks
+summary: OpenAI-compatible SDK and proxy for routing across many LLM providers with logging and gateway features.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - productivity
+  - llm
+level: intermediate
+status: active
+links:
+  repo: https://github.com/BerriAI/litellm

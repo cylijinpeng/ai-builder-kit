@@ -1,0 +1,15 @@
+name: Promptflow
+type: repo
+category: frameworks
+summary: Microsoft framework for prototyping, testing, deploying, and monitoring LLM apps.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - evaluation
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/microsoft/promptflow

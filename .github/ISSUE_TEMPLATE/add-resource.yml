@@ -1,5 +1,5 @@
 name: Add resource
-description: Suggest a new skill, prompt, MCP server, workflow, or example.
+description: Suggest a new builder resource for this repository.
 title: "[Add] "
 labels:
   - addition
@@ -18,7 +18,10 @@ body:
       options:
         - skills
         - prompts
+        - instructions
         - mcp
+        - frameworks
+        - evals
         - workflows
         - examples
     validations:

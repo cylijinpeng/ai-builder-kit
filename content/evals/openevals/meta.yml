@@ -1,0 +1,15 @@
+name: OpenEvals
+type: repo
+category: evals
+summary: Readymade evaluators for LLM applications from the LangChain ecosystem.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - evaluation
+  - framework
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/langchain-ai/openevals

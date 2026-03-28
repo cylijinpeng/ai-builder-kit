@@ -1,0 +1,16 @@
+name: AGENTS.md Standard
+type: guide
+category: instructions
+summary: Open format for guiding coding agents with repository-specific instructions.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - copilot
+level: beginner
+status: active
+links:
+  repo: https://github.com/agentsmd/agents.md
+  docs: https://agents.md/

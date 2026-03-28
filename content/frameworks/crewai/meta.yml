@@ -1,0 +1,15 @@
+name: CrewAI
+type: repo
+category: frameworks
+summary: Framework for orchestrating role-based autonomous AI agents that work together on tasks.
+scenarios:
+  - automation
+  - writing
+tags:
+  - agent
+  - framework
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/crewAIInc/crewAI

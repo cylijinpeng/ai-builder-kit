@@ -1,0 +1,15 @@
+name: OpenAI Evals
+type: repo
+category: evals
+summary: Framework and open-source benchmark registry for evaluating LLMs and LLM systems.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - evaluation
+  - llm
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/openai/evals

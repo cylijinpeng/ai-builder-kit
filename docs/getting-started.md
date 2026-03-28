@@ -6,9 +6,18 @@ Start in `README.md`, then browse the collection that matches your use case:
 
 - `content/skills/`
 - `content/prompts/`
+- `content/instructions/`
 - `content/mcp/`
+- `content/frameworks/`
+- `content/evals/`
 - `content/workflows/`
 - `content/examples/`
+
+If you want a faster overview first, check:
+
+- `content/indexes/featured.md`
+- `content/indexes/landscape.md`
+- `content/indexes/by-scenario.md`
 
 Each entry should tell you:
 

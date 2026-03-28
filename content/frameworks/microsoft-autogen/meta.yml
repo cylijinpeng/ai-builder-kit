@@ -1,0 +1,15 @@
+name: Microsoft AutoGen
+type: repo
+category: frameworks
+summary: Programming framework for multi-agent AI applications that can act autonomously or alongside humans.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - framework
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/microsoft/autogen

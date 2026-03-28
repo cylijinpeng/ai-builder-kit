@@ -1,0 +1,15 @@
+name: Model Context Protocol Overview
+type: guide
+category: mcp
+summary: Official overview of the Model Context Protocol and what MCP servers enable.
+scenarios:
+  - automation
+  - research
+tags:
+  - mcp
+  - agent
+  - productivity
+level: beginner
+status: active
+links:
+  docs: https://modelcontextprotocol.io/home

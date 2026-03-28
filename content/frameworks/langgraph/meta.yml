@@ -1,0 +1,15 @@
+name: LangGraph
+type: repo
+category: frameworks
+summary: Framework for building resilient language agents as graphs.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - framework
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/langchain-ai/langgraph

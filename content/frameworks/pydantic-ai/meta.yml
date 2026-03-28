@@ -1,0 +1,15 @@
+name: PydanticAI
+type: repo
+category: frameworks
+summary: Agent framework built around Python typing and Pydantic-based structured interfaces.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - framework
+  - sdk
+level: intermediate
+status: active
+links:
+  repo: https://github.com/pydantic/pydantic-ai

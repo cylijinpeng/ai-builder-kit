@@ -1,0 +1,15 @@
+name: Awesome Prompt Engineering
+type: repo
+category: prompts
+summary: Hand-curated collection of prompt engineering resources, tools, APIs, benchmarks, and courses.
+scenarios:
+  - writing
+  - research
+tags:
+  - llm
+  - prompt-engineering
+  - research
+level: beginner
+status: active
+links:
+  repo: https://github.com/promptslab/Awesome-Prompt-Engineering
